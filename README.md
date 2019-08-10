@@ -1,6 +1,7 @@
 # 计算机术语库
 
 Microsoft 术语集 https://www.microsoft.com/zh-cn/language/Terminology。
+
 下载中文（中华人民共和国）版本，则术语库文件中包含同一术语的英文和中文。
 
 转换为 csv 格式。
